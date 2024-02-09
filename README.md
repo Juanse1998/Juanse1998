@@ -15,9 +15,8 @@ Where to find me:
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AntonioCardenas&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanse1998&layout=compact&theme=tokyonight" />
 </a>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanse1998)](https://github.com/Juans1998/github-readme-stats)
 </p>
 
 ##Techs
