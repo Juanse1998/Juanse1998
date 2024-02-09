@@ -25,25 +25,19 @@ Where to find me:
 </a> 
 <a><img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
 </a>
-<a><img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
+<a><img src="https://img.shields.io/badge/javascript%20-%23DD0031.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 </a> 
-<a><img src="https://img.shields.io/badge/firebase%20-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/react%20-%23DD0031.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 </a> 
-<a><img src="https://img.shields.io/badge/ionic%20-%233776AB.svg?&style=for-the-badge&logo=ionic&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/ruby%20-%23DD0031.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
 </a> 
-<a><img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/html%20-%23DD0031.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
 <a><img src="https://img.shields.io/badge/materialdesign%20-%23757575.svg?&style=for-the-badge&logo=material-design&logoColor=white"/>
 </a> 
-<a><img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/react-native%20-%23DD0031.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 </a> 
 <a><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/powershell%20-%2302569B.svg?&style=for-the-badge&logo=powershell&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </a> 
 <a><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </a> 
