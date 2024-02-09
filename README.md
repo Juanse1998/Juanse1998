@@ -42,17 +42,7 @@ Where to find me:
 <a><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </a> 
 
-## 🕹️ Playgrounds
-<a><img src="https://img.shields.io/badge/Code pen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/Glitch-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white"/>
-</a> 
-
 ## 📃 IDE's that I usually use
-<a><img src="https://img.shields.io/badge/Xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/WebStorm-%2300000.svg?&style=for-the-badge&logo=webstorm&logoColor=white"/>
-</a> 
 <a><img src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </a> 
 
@@ -63,28 +53,11 @@ Where to find me:
 <a>
 <img src="https://img.shields.io/badge/Mac Os-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
 </a> 
-<a>
-<img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
-</a> 
 
 ## 👨🏻‍💻 Currently learning
 <a>
-<img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/java%20-%23DD0031.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </a> 
-
-<a>
-<img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
-</a> 
-    
-## Spam
-<img align="center" src="https://profile-counter.glitch.me/yeoudev/count.svg" />
-
-<!--
-- 💻 [ Blog personal - projects - tools](https://yeou.dev/)
-</details>
-[![Follow Github](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white
-)](https://github.com/antoniocardenas)
--->
 
 
 
