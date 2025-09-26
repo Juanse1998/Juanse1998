@@ -26,6 +26,8 @@ Where to find me:
 <a><img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
 </a>
 <a><img src="https://img.shields.io/badge/javascript%20-%23DD0031.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+</a>
+<a><img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
 </a> 
 <a><img src="https://img.shields.io/badge/react%20-%23DD0031.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 </a> 
@@ -44,6 +46,7 @@ Where to find me:
 
 ## 📃 IDE's that I usually use
 <a><img src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
 </a> 
 
 ## 💽 Operating systems that I use
