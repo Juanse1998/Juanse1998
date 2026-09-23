@@ -95,17 +95,6 @@ versión multiplataforma en desarrollo con Flutter.
 
 <hr>
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juanse1998&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanse1998&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<hr>
-
 ### 📚 Actualmente
 
 Cursando una formación de **AI Engineer** — sistemas de IA, LLMs y agentes inteligentes.
