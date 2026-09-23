@@ -38,46 +38,60 @@ versión multiplataforma en desarrollo con Flutter.
 
 **Lenguajes**
 
+<p>
 <img src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+</p>
 
 **Frontend**
 
+<p>
 <img src="https://img.shields.io/badge/react-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/angular-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
 
 **Mobile**
 
+<p>
 <img src="https://img.shields.io/badge/react%20native-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
 
 **Backend**
 
+<p>
 <img src="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/ruby%20on%20rails-CC0000.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white"/>
+</p>
 
 **Bases de datos**
 
+<p>
 <img src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/supabase-3ECF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
 **IA / LLMs**
 
+<p>
 <img src="https://img.shields.io/badge/claude%20api-D97757.svg?&style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/mcp-D97757.svg?&style=for-the-badge&logo=anthropic&logoColor=white"/>
+</p>
 
 **Herramientas**
 
+<p>
 <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
 
 <hr>
 
