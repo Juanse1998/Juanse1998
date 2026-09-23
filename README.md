@@ -1,70 +1,97 @@
-<h1 align='center'>
-    ¡Hello there 🖖🏼 I'm Juanse 👨🏻‍💻 !
-    <p align='center'>Dev Frontend/Web Developer</p>
-</h1>
+<h1 align="center">¡Hola! Soy Juan Sosa 👋</h1>
+<h3 align="center">Full Stack Developer · IA aplicada con Claude</h3>
 
-<p align='center'>
-Where to find me:
+<p align="center">
+Construyo productos web y mobile de punta a punta con React, Next.js, TypeScript y Node.js,
+e integro agentes de IA sobre la API de Claude en producto real.
 </p>
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/juan-segundo-sosa-081a4a180/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/juansegundososa/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:juansesosa98@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://odontoapp.com.ar" target="_blank">
+    <img alt="OdontoApp" src="https://img.shields.io/badge/odontoapp.com.ar-1a6b3c?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
-  
-<p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanse1998&layout=compact&theme=tokyonight" />
-</a>
+<hr>
+
+### 🚀 Proyectos
+
+**[OdontoApp](https://odontoapp.com.ar)** — SaaS de gestión odontológica en producción, +1.000 pacientes gestionados.
+Diseñé y desarrollé el producto completo: pacientes, turnos, historia clínica, facturación y notificaciones
+por WhatsApp. Incluye un asistente conversacional sobre la **API de Claude** que, mediante tool use,
+consulta los datos del sistema y ejecuta acciones (turnos, registros, notificaciones) sin intervención
+del consultorio.
+
+**[Festival Pro](https://play.google.com/store/apps/details?id=com.festivalPro.calendarApp&hl=es_AR)** —
+App mobile de gestión de festivales publicada en Google Play. React Native + TypeScript, con una nueva
+versión multiplataforma en desarrollo con Flutter.
+
+<hr>
+
+### 🛠️ Stack
+
+**Lenguajes**
+
+<img src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/react-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/angular-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+
+**Mobile**
+
+<img src="https://img.shields.io/badge/react%20native-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
+
+**Backend**
+
+<img src="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/ruby%20on%20rails-CC0000.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white"/>
+
+**Bases de datos**
+
+<img src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/supabase-3ECF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/>
+
+**IA / LLMs**
+
+<img src="https://img.shields.io/badge/claude%20api-D97757.svg?&style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/mcp-D97757.svg?&style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+**Herramientas**
+
+<img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
+
+<hr>
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juanse1998&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanse1998&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-##Techs
+<hr>
 
-<a><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
-</a>
-<a><img src="https://img.shields.io/badge/javascript%20-%23DD0031.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-</a>
-<a><img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
-</a> 
-<a><img src="https://img.shields.io/badge/react%20-%23DD0031.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/ruby%20-%23DD0031.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/html%20-%23DD0031.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-</a>
-<a><img src="https://img.shields.io/badge/materialdesign%20-%23757575.svg?&style=for-the-badge&logo=material-design&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/react-native%20-%23DD0031.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</a> 
+### 📚 Actualmente
 
-## 📃 IDE's that I usually use
-<a><img src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</a> 
-
-## 💽 Operating systems that I use
-<a>
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
-</a> 
-<a>
-<img src="https://img.shields.io/badge/Mac Os-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
-</a> 
-
-## 👨🏻‍💻 Currently learning
-<a>
-<img src="https://img.shields.io/badge/java%20-%23DD0031.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-</a> 
-
-
-
-
-
-
-
+Cursando una formación de **AI Engineer** — sistemas de IA, LLMs y agentes inteligentes.
